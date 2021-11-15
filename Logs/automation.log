@@ -1,0 +1,442 @@
+11/01/2021 07:33:21 PM: **********test_001_login*****************
+11/01/2021 07:33:21 PM: **********Verifying Home Page Title*****************
+11/01/2021 07:33:26 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:00:36 PM: **********test_001_login*****************
+11/01/2021 10:00:36 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:00:40 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:02:14 PM: **********test_001_login*****************
+11/01/2021 10:02:14 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:02:17 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:09:13 PM: **********test_001_login*****************
+11/01/2021 10:09:13 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:09:18 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:19:43 PM: **********test_001_login*****************
+11/01/2021 10:19:43 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:19:54 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:20:11 PM: **********test_001_login*****************
+11/01/2021 10:20:11 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:20:18 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:25:45 PM: **********test_001_login*****************
+11/01/2021 10:25:45 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:25:51 PM: **********Passed  Home Page Title*****************
+11/01/2021 10:50:50 PM: **********test_001_login*****************
+11/01/2021 10:50:50 PM: **********Verifying Home Page Title*****************
+11/01/2021 10:50:58 PM: **********Passed  Home Page Title*****************
+11/01/2021 11:07:23 PM: **********test_001_login*****************
+11/01/2021 11:07:23 PM: **********Verifying Home Page Title*****************
+11/01/2021 11:07:29 PM: **********Passed  Home Page Title*****************
+11/02/2021 10:53:20 AM: **********test_001_login*****************
+11/02/2021 10:53:20 AM: **********Verifying Home Page Title*****************
+11/02/2021 10:53:27 AM: **********Passed  Home Page Title*****************
+11/02/2021 01:35:31 PM: **********test_002_login*****************
+11/02/2021 01:35:31 PM: **********Verifying Login DDT itle*****************
+11/02/2021 01:35:40 PM: Failed
+11/02/2021 01:35:40 PM: Login DDT test Failed
+11/02/2021 01:56:29 PM: **********test_002_login*****************
+11/02/2021 01:56:29 PM: **********Verifying Login DDT itle*****************
+11/02/2021 01:56:38 PM: Failed
+11/02/2021 01:56:42 PM: Passed
+11/02/2021 01:56:47 PM: Passed
+11/02/2021 01:56:52 PM: Passed
+11/02/2021 01:56:52 PM: Login DDT test Failed
+11/02/2021 02:07:59 PM: **********test_002_login*****************
+11/02/2021 02:07:59 PM: **********Verifying Login DDT itle*****************
+11/02/2021 02:08:08 PM: Failed
+11/02/2021 02:08:13 PM: Passed
+11/02/2021 02:08:19 PM: Passed
+11/02/2021 02:08:23 PM: Passed
+11/02/2021 02:08:23 PM: Login DDT test Failed
+11/02/2021 02:14:45 PM: **********test_002_login*****************
+11/02/2021 02:14:45 PM: **********Verifying Login DDT itle*****************
+11/02/2021 02:14:52 PM: Failed
+11/02/2021 02:14:56 PM: Passed
+11/02/2021 02:14:59 PM: Passed
+11/02/2021 02:15:02 PM: Passed
+11/02/2021 02:15:02 PM: Login DDT test Failed
+11/02/2021 03:49:04 PM: **********test_001_login*****************
+11/02/2021 03:49:04 PM: **********Verifying Home Page Title*****************
+11/02/2021 03:49:09 PM: **********Passed  Home Page Title*****************
+11/02/2021 03:49:41 PM: **********test_002_login*****************
+11/02/2021 03:49:41 PM: **********Verifying Login DDT itle*****************
+11/02/2021 03:49:47 PM: Failed
+11/02/2021 03:49:50 PM: Passed
+11/02/2021 03:49:53 PM: Passed
+11/02/2021 03:49:57 PM: Passed
+11/02/2021 03:49:57 PM: Login DDT test Failed
+11/02/2021 03:52:35 PM: **********test_002_login*****************
+11/02/2021 03:52:35 PM: **********Verifying Login DDT itle*****************
+11/02/2021 03:52:41 PM: Failed
+11/02/2021 03:52:44 PM: Passed
+11/02/2021 03:52:47 PM: Passed
+11/02/2021 03:52:49 PM: Passed
+11/02/2021 03:52:49 PM: Login DDT test Failed
+11/02/2021 03:53:55 PM: **********test_001_login*****************
+11/02/2021 03:53:55 PM: **********Verifying Home Page Title*****************
+11/02/2021 03:54:01 PM: **********Passed  Home Page Title*****************
+11/02/2021 03:54:42 PM: **********test_002_login*****************
+11/02/2021 03:54:42 PM: **********Verifying Login DDT itle*****************
+11/02/2021 03:54:52 PM: Passed
+11/02/2021 03:55:00 PM: Passed
+11/02/2021 03:55:03 PM: Passed
+11/02/2021 03:55:07 PM: Passed
+11/02/2021 03:55:07 PM: Login DDT test passed
+11/02/2021 04:05:35 PM: **********test_002_login*****************
+11/02/2021 04:05:35 PM: **********Verifying Login DDT itle*****************
+11/02/2021 04:05:43 PM: Passed
+11/02/2021 04:05:48 PM: Passed
+11/02/2021 04:05:51 PM: Passed
+11/02/2021 04:05:54 PM: Passed
+11/02/2021 04:05:54 PM: Login DDT test passed
+11/02/2021 07:36:19 PM: **********test_001_login*****************
+11/02/2021 07:36:19 PM: **********Verifying Home Page Title*****************
+11/02/2021 07:36:33 PM: **********Passed  Home Page Title*****************
+11/02/2021 07:43:20 PM: **********test_002_login*****************
+11/02/2021 07:43:20 PM: **********Verifying Login DDT itle*****************
+11/02/2021 07:44:23 PM: **********test_002_login*****************
+11/02/2021 07:44:23 PM: **********Verifying Login DDT itle*****************
+11/02/2021 07:45:03 PM: **********test_002_login*****************
+11/02/2021 07:45:03 PM: **********Verifying Login DDT itle*****************
+11/02/2021 07:45:14 PM: Passed
+11/02/2021 07:45:19 PM: Passed
+11/02/2021 07:45:22 PM: Passed
+11/02/2021 07:45:25 PM: Passed
+11/02/2021 07:45:25 PM: Login DDT test passed
+11/04/2021 10:39:18 PM: **********test_003_AddCustomer*****************
+11/04/2021 10:39:24 PM: **********Login Successful*****************
+11/04/2021 10:39:24 PM: **********Starting Add Customer Test*****************
+11/04/2021 10:53:21 PM: **********test_003_AddCustomer*****************
+11/04/2021 10:53:26 PM: **********Login Successful*****************
+11/04/2021 10:53:26 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:01:04 PM: **********test_003_AddCustomer*****************
+11/04/2021 11:01:10 PM: **********Login Successful*****************
+11/04/2021 11:01:10 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:03:11 PM: **********test_003_AddCustomer*****************
+11/04/2021 11:03:17 PM: **********Login Successful*****************
+11/04/2021 11:03:17 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:07:10 PM: **********test_003_AddCustomer*****************
+11/04/2021 11:07:15 PM: **********Login Successful*****************
+11/04/2021 11:07:15 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:09:31 PM: **********test_003_AddCustomer*****************
+11/04/2021 11:09:36 PM: **********Login Successful*****************
+11/04/2021 11:09:36 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:09:42 PM: **********Providing Customer Information*****************
+11/04/2021 11:24:05 PM: **********test_003_AddCustomer*****************
+11/04/2021 11:24:10 PM: **********Login Successful*****************
+11/04/2021 11:24:10 PM: **********Starting Add Customer Test*****************
+11/04/2021 11:24:14 PM: **********Providing Customer Information*****************
+11/05/2021 09:08:41 PM: **********test_003_AddCustomer*****************
+11/05/2021 09:08:56 PM: **********Login Successful*****************
+11/05/2021 09:08:56 PM: **********Starting Add Customer Test*****************
+11/05/2021 09:09:05 PM: **********Providing Customer Information*****************
+11/05/2021 10:33:50 PM: **********test_002_login*****************
+11/05/2021 10:33:50 PM: **********Verifying Login DDT itle*****************
+11/05/2021 10:37:01 PM: **********test_002_login*****************
+11/05/2021 10:37:01 PM: **********Verifying Login DDT itle*****************
+11/06/2021 09:45:44 PM: **********test_003_AddCustomer*****************
+11/06/2021 09:45:52 PM: **********Login Successful*****************
+11/06/2021 09:45:52 PM: **********Starting Add Customer Test*****************
+11/06/2021 09:45:56 PM: **********Providing Customer Information*****************
+11/06/2021 09:52:20 PM: **********test_003_AddCustomer*****************
+11/06/2021 09:52:36 PM: **********Login Successful*****************
+11/06/2021 09:52:36 PM: **********Starting Add Customer Test*****************
+11/06/2021 09:52:45 PM: **********Providing Customer Information*****************
+11/06/2021 10:00:20 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:01:10 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:01:25 PM: **********Login Successful*****************
+11/06/2021 10:01:25 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:01:34 PM: **********Providing Customer Information*****************
+11/06/2021 10:03:02 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:03:10 PM: **********Login Successful*****************
+11/06/2021 10:03:10 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:03:15 PM: **********Providing Customer Information*****************
+11/06/2021 10:10:27 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:10:34 PM: **********Login Successful*****************
+11/06/2021 10:10:34 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:10:39 PM: **********Providing Customer Information*****************
+11/06/2021 10:11:59 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:12:07 PM: **********Login Successful*****************
+11/06/2021 10:12:07 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:12:12 PM: **********Providing Customer Information*****************
+11/06/2021 10:15:00 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:15:07 PM: **********Login Successful*****************
+11/06/2021 10:15:07 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:15:11 PM: **********Providing Customer Information*****************
+11/06/2021 10:30:30 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:30:37 PM: **********Login Successful*****************
+11/06/2021 10:30:37 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:30:45 PM: **********Providing Customer Information*****************
+11/06/2021 10:36:34 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:36:41 PM: **********Login Successful*****************
+11/06/2021 10:36:41 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:36:45 PM: **********Providing Customer Information*****************
+11/06/2021 10:43:52 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:43:59 PM: **********Login Successful*****************
+11/06/2021 10:43:59 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:44:04 PM: **********Providing Customer Information*****************
+11/06/2021 10:48:25 PM: **********test_003_AddCustomer*****************
+11/06/2021 10:49:14 PM: **********Login Successful*****************
+11/06/2021 10:49:14 PM: **********Starting Add Customer Test*****************
+11/06/2021 10:49:23 PM: **********Providing Customer Information*****************
+11/06/2021 11:33:30 PM: **********test_003_AddCustomer*****************
+11/06/2021 11:33:39 PM: **********Login Successful*****************
+11/06/2021 11:33:39 PM: **********Starting Add Customer Test*****************
+11/06/2021 11:33:43 PM: **********Providing Customer Information*****************
+11/06/2021 11:38:42 PM: **********test_003_AddCustomer*****************
+11/06/2021 11:38:50 PM: **********Login Successful*****************
+11/06/2021 11:38:50 PM: **********Starting Add Customer Test*****************
+11/06/2021 11:38:55 PM: **********Providing Customer Information*****************
+11/06/2021 11:47:08 PM: **********test_003_AddCustomer*****************
+11/06/2021 11:48:08 PM: **********Login Successful*****************
+11/06/2021 11:48:08 PM: **********Starting Add Customer Test*****************
+11/06/2021 11:48:17 PM: **********Providing Customer Information*****************
+11/07/2021 07:47:51 AM: **********test_003_AddCustomer*****************
+11/07/2021 07:48:36 AM: **********test_003_AddCustomer*****************
+11/07/2021 07:49:01 AM: **********Login Successful*****************
+11/07/2021 07:49:01 AM: **********Starting Add Customer Test*****************
+11/07/2021 07:49:08 AM: **********Providing Customer Information*****************
+11/07/2021 07:50:28 AM: **********test_003_AddCustomer*****************
+11/07/2021 07:50:34 AM: **********Login Successful*****************
+11/07/2021 07:50:34 AM: **********Starting Add Customer Test*****************
+11/07/2021 07:50:38 AM: **********Providing Customer Information*****************
+11/07/2021 07:50:45 AM: **********Saving customer info*****************
+11/07/2021 07:50:45 AM: **********Add customer validation started*****************
+11/07/2021 07:50:46 AM: **********Add customer passed*****************
+11/07/2021 07:50:47 AM: **********Ending Home Page Title Test*****************
+11/07/2021 11:13:24 AM: **********test_003_AddCustomer*****************
+11/07/2021 11:13:35 AM: **********Login Successful*****************
+11/07/2021 11:13:35 AM: **********Starting Add Customer Test*****************
+11/07/2021 11:13:40 AM: **********Providing Customer Information*****************
+11/07/2021 11:13:49 AM: **********Saving customer info*****************
+11/07/2021 11:13:49 AM: **********Add customer validation started*****************
+11/07/2021 11:13:49 AM: **********Add customer passed*****************
+11/07/2021 11:13:50 AM: **********Ending Home Page Title Test*****************
+11/07/2021 11:22:24 AM: **********test_003_AddCustomer*****************
+11/07/2021 11:22:30 AM: **********Login Successful*****************
+11/07/2021 11:22:30 AM: **********Starting Add Customer Test*****************
+11/07/2021 11:22:35 AM: **********Providing Customer Information*****************
+11/07/2021 11:22:42 AM: **********Saving customer info*****************
+11/07/2021 11:22:42 AM: **********Add customer validation started*****************
+11/07/2021 11:22:43 AM: **********Add customer passed*****************
+11/07/2021 11:22:44 AM: **********Ending Home Page Title Test*****************
+11/07/2021 11:31:07 AM: **********test_003_AddCustomer*****************
+11/07/2021 11:31:14 AM: **********Login Successful*****************
+11/07/2021 11:31:14 AM: **********Starting Add Customer Test*****************
+11/07/2021 11:31:19 AM: **********Providing Customer Information*****************
+11/07/2021 11:31:26 AM: **********Saving customer info*****************
+11/07/2021 11:31:26 AM: **********Add customer validation started*****************
+11/07/2021 11:31:26 AM: **********Add customer passed*****************
+11/07/2021 11:31:27 AM: **********Ending Home Page Title Test*****************
+11/07/2021 11:32:15 AM: **********test_003_AddCustomer*****************
+11/07/2021 11:32:23 AM: **********Login Successful*****************
+11/07/2021 11:32:23 AM: **********Starting Add Customer Test*****************
+11/07/2021 11:32:27 AM: **********Providing Customer Information*****************
+11/07/2021 11:32:34 AM: **********Saving customer info*****************
+11/07/2021 11:32:34 AM: **********Add customer validation started*****************
+11/07/2021 11:32:34 AM: **********Add customer passed*****************
+11/07/2021 11:32:35 AM: **********Ending Home Page Title Test*****************
+11/07/2021 08:58:31 PM: **********test_003_AddCustomer*****************
+11/07/2021 08:59:21 PM: **********test_003_AddCustomer*****************
+11/07/2021 09:00:17 PM: **********Login Successful*****************
+11/07/2021 09:00:17 PM: **********Starting Add Customer Test*****************
+11/07/2021 09:00:26 PM: **********Providing Customer Information*****************
+11/07/2021 09:00:34 PM: **********Saving customer info*****************
+11/07/2021 09:00:34 PM: **********Add customer validation started*****************
+11/07/2021 09:00:35 PM: **********Add customer passed*****************
+11/07/2021 09:00:35 PM: **********Ending Home Page Title Test*****************
+11/07/2021 09:02:25 PM: **********test_003_AddCustomer*****************
+11/07/2021 09:02:30 PM: **********Login Successful*****************
+11/07/2021 09:02:30 PM: **********Starting Add Customer Test*****************
+11/07/2021 09:02:33 PM: **********Providing Customer Information*****************
+11/07/2021 09:02:39 PM: **********Saving customer info*****************
+11/07/2021 09:02:39 PM: **********Add customer validation started*****************
+11/07/2021 09:02:39 PM: **********Add customer passed*****************
+11/07/2021 09:02:39 PM: **********Ending Home Page Title Test*****************
+11/07/2021 09:05:04 PM: **********test_003_AddCustomer*****************
+11/07/2021 09:05:10 PM: **********Login Successful*****************
+11/07/2021 09:05:10 PM: **********Starting Add Customer Test*****************
+11/07/2021 09:06:47 PM: **********test_003_AddCustomer*****************
+11/07/2021 09:06:53 PM: **********Login Successful*****************
+11/07/2021 09:06:53 PM: **********Starting Add Customer Test*****************
+11/07/2021 09:06:56 PM: **********Providing Customer Information*****************
+11/07/2021 09:07:02 PM: **********Saving customer info*****************
+11/07/2021 09:07:02 PM: **********Add customer validation started*****************
+11/07/2021 09:07:02 PM: **********Add customer passed*****************
+11/07/2021 09:07:02 PM: **********Ending Home Page Title Test*****************
+11/07/2021 09:07:03 PM: **********Providing Customer Information*****************
+11/07/2021 09:07:08 PM: **********Saving customer info*****************
+11/07/2021 09:07:08 PM: **********Add customer validation started*****************
+11/07/2021 09:07:09 PM: **********Add customer passed*****************
+11/07/2021 09:07:09 PM: **********Ending Home Page Title Test*****************
+11/08/2021 05:55:28 PM: **********test_003_AddCustomer*****************
+11/08/2021 05:55:34 PM: **********Login Successful*****************
+11/08/2021 05:55:34 PM: **********Starting Search Customer By Email*****************
+11/08/2021 05:55:37 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:33:14 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:33:24 PM: **********Login Successful*****************
+11/08/2021 08:33:24 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:33:28 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:39:06 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:39:16 PM: **********Login Successful*****************
+11/08/2021 08:39:16 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:39:18 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:44:02 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:44:10 PM: **********Login Successful*****************
+11/08/2021 08:44:10 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:44:14 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:48:03 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:48:28 PM: **********Login Successful*****************
+11/08/2021 08:48:28 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:48:32 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:50:54 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:51:03 PM: **********Login Successful*****************
+11/08/2021 08:51:03 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:51:06 PM: **********Searching Customer by EmailID *****************
+11/08/2021 08:54:07 PM: **********test_003_AddCustomer*****************
+11/08/2021 08:54:13 PM: **********Login Successful*****************
+11/08/2021 08:54:13 PM: **********Starting Search Customer By Email*****************
+11/08/2021 08:54:15 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:30:28 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:30:39 PM: **********Login Successful*****************
+11/08/2021 09:30:39 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:30:43 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:37:56 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:38:01 PM: **********Login Successful*****************
+11/08/2021 09:38:01 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:38:03 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:42:17 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:42:23 PM: **********Login Successful*****************
+11/08/2021 09:42:23 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:42:25 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:44:40 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:44:45 PM: **********Login Successful*****************
+11/08/2021 09:44:45 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:44:48 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:50:52 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:50:57 PM: **********Login Successful*****************
+11/08/2021 09:50:57 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:51:00 PM: **********Searching Customer by EmailID *****************
+11/08/2021 09:58:54 PM: **********test_003_AddCustomer*****************
+11/08/2021 09:59:00 PM: **********Login Successful*****************
+11/08/2021 09:59:00 PM: **********Starting Search Customer By Email*****************
+11/08/2021 09:59:02 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:01:15 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:01:21 PM: **********Login Successful*****************
+11/08/2021 10:01:21 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:01:24 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:03:12 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:03:17 PM: **********Login Successful*****************
+11/08/2021 10:03:17 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:03:19 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:26:03 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:26:08 PM: **********Login Successful*****************
+11/08/2021 10:26:08 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:26:11 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:26:41 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:26:46 PM: **********Login Successful*****************
+11/08/2021 10:26:46 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:26:49 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:31:34 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:31:40 PM: **********Login Successful*****************
+11/08/2021 10:31:40 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:31:42 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:39:21 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:39:26 PM: **********Login Successful*****************
+11/08/2021 10:39:26 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:39:29 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:42:29 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:42:33 PM: **********Login Successful*****************
+11/08/2021 10:42:33 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:42:36 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:46:32 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:46:37 PM: **********Login Successful*****************
+11/08/2021 10:46:37 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:46:39 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:48:45 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:48:50 PM: **********Login Successful*****************
+11/08/2021 10:48:50 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:48:54 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:50:21 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:50:27 PM: **********Login Successful*****************
+11/08/2021 10:50:27 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:50:29 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:51:32 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:51:37 PM: **********Login Successful*****************
+11/08/2021 10:51:37 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:51:40 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:51:45 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/08/2021 10:58:26 PM: **********test_003_AddCustomer*****************
+11/08/2021 10:58:32 PM: **********Login Successful*****************
+11/08/2021 10:58:32 PM: **********Starting Search Customer By Email*****************
+11/08/2021 10:58:34 PM: **********Searching Customer by EmailID *****************
+11/08/2021 10:58:40 PM: **********TC_Searching_Customer_by_Name Completed *****************
+11/09/2021 06:54:30 AM: **********test_003_AddCustomer*****************
+11/09/2021 06:54:36 AM: **********Login Successful*****************
+11/09/2021 06:54:36 AM: **********Starting Add Customer Test*****************
+11/09/2021 06:54:43 AM: **********Providing Customer Information*****************
+11/09/2021 06:54:51 AM: **********Saving customer info*****************
+11/09/2021 06:54:51 AM: **********Add customer validation started*****************
+11/09/2021 06:54:52 AM: **********Add customer passed*****************
+11/09/2021 06:54:52 AM: **********Ending Home Page Title Test*****************
+11/09/2021 06:54:53 AM: **********Providing Customer Information*****************
+11/09/2021 06:54:59 AM: **********Saving customer info*****************
+11/09/2021 06:54:59 AM: **********Add customer validation started*****************
+11/09/2021 06:55:00 AM: **********Add customer passed*****************
+11/09/2021 06:55:00 AM: **********Ending Home Page Title Test*****************
+11/09/2021 07:04:36 AM: **********test_003_AddCustomer*****************
+11/09/2021 07:04:45 AM: **********Login Successful*****************
+11/09/2021 07:04:45 AM: **********Starting Add Customer Test*****************
+11/09/2021 07:04:51 AM: **********Providing Customer Information*****************
+11/09/2021 07:04:58 AM: **********Saving customer info*****************
+11/09/2021 07:04:58 AM: **********Add customer validation started*****************
+11/09/2021 07:04:59 AM: **********Add customer passed*****************
+11/09/2021 07:04:59 AM: **********Ending Home Page Title Test*****************
+11/09/2021 07:05:00 AM: **********Providing Customer Information*****************
+11/09/2021 07:05:06 AM: **********Saving customer info*****************
+11/09/2021 07:05:06 AM: **********Add customer validation started*****************
+11/09/2021 07:05:06 AM: **********Add customer passed*****************
+11/09/2021 07:05:06 AM: **********Ending Home Page Title Test*****************
+11/09/2021 07:08:06 AM: **********test_003_AddCustomer*****************
+11/09/2021 07:08:13 AM: **********Login Successful*****************
+11/09/2021 07:08:13 AM: **********Starting Add Customer Test*****************
+11/09/2021 07:08:19 AM: **********Providing Customer Information*****************
+11/09/2021 07:08:29 AM: **********Saving customer info*****************
+11/09/2021 07:08:29 AM: **********Add customer validation started*****************
+11/09/2021 07:08:30 AM: **********Add customer passed*****************
+11/09/2021 07:08:30 AM: **********Ending Home Page Title Test*****************
+11/09/2021 07:09:08 AM: **********test_003_AddCustomer*****************
+11/09/2021 07:09:15 AM: **********Login Successful*****************
+11/09/2021 07:09:15 AM: **********Starting Add Customer Test*****************
+11/10/2021 09:30:23 PM: **********test_003_AddCustomer*****************
+11/10/2021 09:30:31 PM: **********Login Successful*****************
+11/10/2021 09:30:31 PM: **********Starting Add Customer Test*****************
+11/10/2021 09:35:41 PM: **********test_003_AddCustomer*****************
+11/10/2021 09:35:47 PM: **********Login Successful*****************
+11/10/2021 09:35:47 PM: **********Starting Add Customer Test*****************
+11/10/2021 09:42:00 PM: **********test_003_AddCustomer*****************
+11/10/2021 09:42:07 PM: **********Login Successful*****************
+11/10/2021 09:42:07 PM: **********Starting Add Customer Test*****************
+11/10/2021 09:42:14 PM: **********Providing Customer Information*****************
+11/10/2021 09:42:21 PM: **********Saving customer info*****************
+11/10/2021 09:42:21 PM: **********Add customer validation started*****************
+11/10/2021 09:42:21 PM: **********Add customer passed*****************
+11/10/2021 09:42:21 PM: **********Ending Home Page Title Test*****************
+11/10/2021 09:44:58 PM: **********test_003_AddCustomer*****************
+11/10/2021 09:45:05 PM: **********Login Successful*****************
+11/10/2021 09:45:05 PM: **********Starting Search Customer By Email*****************
+11/10/2021 09:45:09 PM: **********Searching Customer by EmailID *****************
+11/10/2021 09:45:14 PM: **********TC_Searching_Customer_by_Name Completed *****************
+11/10/2021 09:47:44 PM: **********test_003_AddCustomer*****************
+11/10/2021 09:48:11 PM: **********Login Successful*****************
+11/10/2021 09:48:11 PM: **********Starting Search Customer By Email*****************
+11/10/2021 09:48:16 PM: **********Searching Customer by EmailID *****************
+11/10/2021 09:48:21 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/12/2021 10:49:43 PM: **********test_003_AddCustomer*****************
+11/12/2021 10:49:52 PM: **********Login Successful*****************
+11/12/2021 10:49:52 PM: **********Starting Search Customer By Email*****************
+11/12/2021 10:49:58 PM: **********Searching Customer by EmailID *****************
+11/12/2021 10:50:03 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/14/2021 09:07:31 PM: **********test_003_AddCustomer*****************
+11/14/2021 09:07:37 PM: **********Login Successful*****************
+11/14/2021 09:07:37 PM: **********Starting Search Customer By Email*****************
+11/14/2021 09:07:40 PM: **********Searching Customer by EmailID *****************
+11/14/2021 09:07:45 PM: **********TC_Searching_Customer_by_EmailID Completed *****************

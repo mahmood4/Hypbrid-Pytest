@@ -1,0 +1,55 @@
+C:\Syed\Test11\geckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
+c:\Syed\Test11\geckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1635819571701	geckodriver	INFO	Listening on 127.0.0.1:50836
+1635819574108	mozrunner::runner	INFO	Running command: "C:\\Users\\s5114509\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\s5114509\\AppData\\Local\\Temp\\1\\rust_mozprofileGsBXA8"
+1635819576013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\s5114509\\AppData\\Local\\Temp\\1\\rust_mozprofileGsBXA8\\search.json.mozlz4", (void 0)))
+1635819579882	Marionette	INFO	Listening on port 50844
+1635819580270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635819591454	Marionette	INFO	Stopped listening on port 50844
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636459742829	geckodriver	INFO	Listening on 127.0.0.1:50422
+1636459743806	mozrunner::runner	INFO	Running command: "C:\\Users\\s5114509\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\s5114509\\AppData\\Local\\Temp\\1\\rust_mozprofileQO5Dvv"
+1636459745112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\s5114509\\AppData\\Local\\Temp\\1\\rust_mozprofileQO5Dvv\\search.json.mozlz4", (void 0)))
+1636459748559	Marionette	INFO	Listening on port 50429
+1636459748668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636459755943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:78223
+s.ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery-migrate/jquery-migrate.min.js:2:3931
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:59:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:93:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:75:30
+@https://admin-demo.nopcommerce.com/admin/:158:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30005
+l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js:2:30307
+1636459800648	Marionette	INFO	Stopped listening on port 50429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+459776313	Marionette	INFO	Listening on port 50493
+1636459776451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636459784879	Marionette	INFO	Stopped listening on port 50493
+[Parent 14360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
