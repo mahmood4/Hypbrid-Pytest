@@ -23,7 +23,8 @@ def setup(browser):
      #   logger.info("**********Firefox Browser*****************")
         print("Launching Firefox browser")
      else:
-         driver = webdriver.Ie(r"C:\Syed\Test11\IEDriverServer.exe")
+         driver = webdriver.Chrome(r"C:\Test\chromedriver.exe")  # driver path should start with r
+         #driver = webdriver.Ie(r"C:\Syed\Test11\IEDriverServer.exe")
      return driver
 
 

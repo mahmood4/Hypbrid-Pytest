@@ -440,3 +440,23 @@
 11/14/2021 09:07:37 PM: **********Starting Search Customer By Email*****************
 11/14/2021 09:07:40 PM: **********Searching Customer by EmailID *****************
 11/14/2021 09:07:45 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/15/2021 10:19:52 PM: **********test_003_AddCustomer*****************
+11/15/2021 10:19:58 PM: **********Login Successful*****************
+11/15/2021 10:19:58 PM: **********Starting Search Customer By Email*****************
+11/15/2021 10:20:01 PM: **********Searching Customer by EmailID *****************
+11/15/2021 10:20:06 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/15/2021 11:08:16 PM: **********test_003_AddCustomer*****************
+11/15/2021 11:08:23 PM: **********Login Successful*****************
+11/15/2021 11:08:23 PM: **********Starting Search Customer By Email*****************
+11/15/2021 11:08:26 PM: **********Searching Customer by EmailID *****************
+11/15/2021 11:08:32 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+11/17/2021 07:56:27 PM: **********test_003_AddCustomer*****************
+11/17/2021 07:56:34 PM: **********Login Successful*****************
+11/17/2021 07:56:34 PM: **********Starting Add Customer Test*****************
+11/17/2021 07:56:41 PM: **********Providing Customer Information*****************
+11/17/2021 07:56:47 PM: **********Saving customer info*****************
+11/17/2021 07:56:47 PM: **********Add customer validation started*****************
+11/17/2021 07:56:47 PM: **********Add customer passed*****************
+11/17/2021 07:56:47 PM: **********Ending Home Page Title Test*****************
+11/17/2021 08:04:19 PM: **********test_003_AddCustomer*****************
+11/17/2021 08:16:15 PM: **********test_003_AddCustomer*****************

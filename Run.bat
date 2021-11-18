@@ -1,3 +1,4 @@
+pip list
 pytest -v -s  -m "sanity" --capture sys -rP --html=Reports\reports1.html .\testCases\  --browser chrome
 pytest -v -s  -m "sanity" --capture sys -rP --html=Reports\reports1.html .\testCases\  --browser firefox
 
