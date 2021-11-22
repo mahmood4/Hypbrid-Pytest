@@ -1,0 +1,6 @@
+ddddd C:\Users\User\PycharmProjects\Hybrid-Pytest
+username admin@yourstore.com
+Pa admin
+2
+email:::: 
+status:::: False

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_AlluresearchCustomerByEmail.py:33 **********test_003_AddCustomer*****************
+[32mINFO    [0m root:test_AlluresearchCustomerByEmail.py:46 **********Login Successful*****************
+[32mINFO    [0m root:test_AlluresearchCustomerByEmail.py:48 **********Starting Search Customer By Email*****************
+[32mINFO    [0m root:test_AlluresearchCustomerByEmail.py:57 **********Searching Customer by EmailID *****************
+[32mINFO    [0m root:test_AlluresearchCustomerByEmail.py:67 **********TC_Searching_Customer_by_EmailID Completed *****************

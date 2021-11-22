@@ -1,3 +1,8 @@
+import allure
+from allure_commons.types import AttachmentType
+from selenium.common.exceptions import NoSuchElementException
+
+
 class SearchCustomer:
     txtEmail_id = "SearchEmail"
     txtFirstName_id = "SearchFirstName"
@@ -43,13 +48,20 @@ class SearchCustomer:
         for r in range(1,self.getNoOfRows()+1):
 
             table = self.driver.find_element_by_xpath(self.table_xpath)
-
-            emailid = table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr["+str(r)+"]/td[2]").text
-            #emailid = table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr/tr[2]").text
+            try:
+                table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr[" + str(r) + "]/td[2]").text
+                emailid = table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr["+str(r)+"]/td[2]").text
+            except NoSuchElementException:
+                   emailid =""
+                   pass
             print("email::::",emailid)
             if emailid == email:
                 flag = True
                 break
+            else:
+                allure.attach(self.driver.get_screenshot_as_png(),name="Not Found",attachment_type=AttachmentType.PNG)
+                #print("email::::", emailid1)
+                flag = False
         return flag
 
 
