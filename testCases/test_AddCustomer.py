@@ -58,7 +58,7 @@ class Test_003_AddCustomer:
         print("number of rows in Excel", self.rows)
         lst_status =[]
 
-        for r in range(2,self.rows+1):
+        for r in range(2,self.  rows+1):
             self.addcust.clickOnAddNew()
             self.email = random_generator() + "@gmail.com"
             self.logger.info("**********Providing Customer Information*****************")

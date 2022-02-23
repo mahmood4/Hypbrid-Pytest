@@ -8,9 +8,10 @@ from selenium.webdriver.firefox.options import Options
 #profile.set_preference("dom.webdriver.enabled", False)
 #profile.set_preference('useAutomationExtension', False)
 #profile.update_preferences()
-gecko_path = "c:\\Syed\\Test11\\geckodriver.exe"
+gecko_path = "c:\\Test\\geckodriver.exe"
 #path = "C:\Program Files\\Mozilla Firefox\\firefox.exe"
-path = "C:\\Users\\s5114509\\AppData\\Local\\Mozilla Firefox\\firefox.exe"
+#path = "C:\\Users\\s5114509\\AppData\\Local\\Mozilla Firefox\\firefox.exe"
+path = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
 binary = FirefoxBinary(path)
 options = Options()
 options.add_argument('--no-sandbox')

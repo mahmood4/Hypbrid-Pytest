@@ -3,7 +3,8 @@ import selenium
 
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-
+from selenium.webdriver.firefox.options import Options
+from webdriver_manager.firefox import GeckoDriverManager
 
 gecko_path = "c:\\Test\\geckodriver.exe"
 path = "C:\\Users\\s5114509\\AppData\\Local\\Mozilla Firefox\\firefox.exe"
@@ -19,9 +20,11 @@ def setup(browser):
  #     logger.info("**********Chrome Browser*****************")
       print("Launching chrome beowser")
      elif browser =='firefox':
-        driver = selenium.webdriver.Firefox(executable_path=gecko_path,firefox_binary=binary)
-     #   logger.info("**********Firefox Browser*****************")
-        print("Launching Firefox browser")
+         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+         #options = Options()
+         #options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
+         #driver = webdriver.Firefox(options=options, executable_path=r'c:\\Test\\geckodriver.exe')
+         print("Launching Firefox browser")
      else:
          driver = webdriver.Chrome(r"C:\Test\chromedriver.exe")  # driver path should start with r
          #driver = webdriver.Ie(r"C:\Syed\Test11\IEDriverServer.exe")

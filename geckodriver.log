@@ -53,3 +53,24 @@ JavaScript error: resource://gre/modules/CrashManager.jsm, line 828: AbortError:
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1645501673274	geckodriver	INFO	Listening on 127.0.0.1:61137
+1645501676324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61138" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileTz1qoO"
+1645501676947	Marionette	INFO	Marionette enabled
+[GFX1-]: RcANGLE(no compositor window)
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Windows\\Temp\\rust_mozprofileTz1qoO\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+DevTools listening on ws://localhost:61138/devtools/browser/0dfd6cef-abae-45b6-ae6b-3d1d404a11ca
+1645501679486	Marionette	INFO	Listening on port 61144
+1645501679527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1645501705810	Marionette	INFO	Stopped listening on port 61144
+[Parent 22560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

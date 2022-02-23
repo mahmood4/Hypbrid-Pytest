@@ -563,3 +563,78 @@
 11/20/2021 10:40:30 PM: **********Add customer validation started*****************
 11/20/2021 10:40:30 PM: **********Add customer passed*****************
 11/20/2021 10:40:30 PM: **********Ending Home Page Title Test*****************
+11/21/2021 10:02:52 PM: **********test_003_AddCustomer*****************
+11/21/2021 10:03:31 PM: **********Login Successful*****************
+11/21/2021 10:03:31 PM: **********Starting Add Customer Test*****************
+11/21/2021 10:03:37 PM: **********Providing Customer Information*****************
+11/21/2021 10:03:42 PM: **********Saving customer info*****************
+11/21/2021 10:03:42 PM: **********Add customer validation started*****************
+11/21/2021 10:03:43 PM: **********Add customer passed*****************
+11/21/2021 10:03:43 PM: **********Ending Home Page Title Test*****************
+11/21/2021 10:09:55 PM: **********test_003_AddCustomer*****************
+11/21/2021 10:10:01 PM: **********Login Successful*****************
+11/21/2021 10:10:01 PM: **********Starting Add Customer Test*****************
+11/21/2021 10:10:04 PM: **********Providing Customer Information*****************
+11/21/2021 10:10:09 PM: **********Saving customer info*****************
+11/21/2021 10:10:09 PM: **********Add customer validation started*****************
+11/21/2021 10:10:09 PM: **********Add customer passed*****************
+11/21/2021 10:10:09 PM: **********Ending Home Page Title Test*****************
+11/21/2021 10:19:00 PM: **********test_003_AddCustomer*****************
+11/21/2021 10:19:05 PM: **********Login Successful*****************
+11/21/2021 10:19:05 PM: **********Starting Add Customer Test*****************
+11/21/2021 10:19:08 PM: **********Providing Customer Information*****************
+11/21/2021 10:19:13 PM: **********Saving customer info*****************
+11/21/2021 10:19:13 PM: **********Add customer validation started*****************
+11/21/2021 10:19:13 PM: **********Add customer passed*****************
+11/21/2021 10:19:13 PM: **********Ending Home Page Title Test*****************
+11/24/2021 11:07:38 PM: **********test_003_AddCustomer*****************
+11/24/2021 11:07:47 PM: **********Login Successful*****************
+11/24/2021 11:07:47 PM: **********Starting Add Customer Test*****************
+11/24/2021 11:07:52 PM: **********Providing Customer Information*****************
+11/24/2021 11:08:00 PM: **********Saving customer info*****************
+11/24/2021 11:08:00 PM: **********Add customer validation started*****************
+11/24/2021 11:08:00 PM: **********Add customer passed*****************
+11/24/2021 11:08:00 PM: **********Ending Home Page Title Test*****************
+02/20/2022 11:11:54 PM: **********test_001_login*****************
+02/20/2022 11:11:54 PM: **********Verifying Home Page Title*****************
+02/20/2022 11:11:58 PM: **********Passed  Home Page Title*****************
+02/20/2022 11:24:00 PM: **********test_001_login*****************
+02/20/2022 11:24:00 PM: **********Verifying Home Page Title*****************
+02/20/2022 11:24:05 PM: **********Passed  Home Page Title*****************
+02/21/2022 12:46:39 PM: **********test_003_AddCustomer*****************
+02/21/2022 12:46:44 PM: **********Login Successful*****************
+02/21/2022 12:46:44 PM: **********Starting Search Customer By Email*****************
+02/21/2022 12:46:59 PM: **********Searching Customer by EmailID *****************
+02/21/2022 12:47:04 PM: **********TC_Searching_Customer_by_Name Completed *****************
+02/21/2022 12:48:48 PM: **********test_003_AddCustomer*****************
+02/21/2022 12:48:53 PM: **********Login Successful*****************
+02/21/2022 12:48:53 PM: **********Starting Add Customer Test*****************
+02/21/2022 12:49:03 PM: **********Providing Customer Information*****************
+02/21/2022 12:49:09 PM: **********Saving customer info*****************
+02/21/2022 12:49:09 PM: **********Add customer validation started*****************
+02/21/2022 12:49:10 PM: **********Add customer passed*****************
+02/21/2022 12:49:10 PM: **********Ending Home Page Title Test*****************
+02/21/2022 10:42:51 PM: **********test_003_AddCustomer*****************
+02/21/2022 10:43:00 PM: **********Login Successful*****************
+02/21/2022 10:43:00 PM: **********Starting Search Customer By Email*****************
+02/21/2022 10:43:03 PM: **********Searching Customer by EmailID *****************
+02/21/2022 10:43:09 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
+02/21/2022 10:47:59 PM: **********test_003_AddCustomer*****************
+02/21/2022 10:48:15 PM: **********Login Successful*****************
+02/21/2022 10:48:15 PM: **********Starting Search Customer By Email*****************
+02/21/2022 11:12:30 PM: **********test_003_AddCustomer*****************
+02/21/2022 11:12:34 PM: **********Login Successful*****************
+02/21/2022 11:12:34 PM: **********Starting Search Customer By Email*****************
+02/22/2022 08:35:06 PM: 
+
+02/22/2022 08:35:06 PM: ====== WebDriver manager ======
+02/22/2022 08:35:08 PM: Current firefox version is 96.0
+02/22/2022 08:35:08 PM: Get LATEST geckodriver version for 96.0 firefox
+02/22/2022 08:35:09 PM: Getting latest mozilla release info for v0.30.0
+02/22/2022 08:35:09 PM: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip
+02/22/2022 08:35:11 PM: Driver has been saved in cache [C:\Users\User\.wdm\drivers\geckodriver\win64\v0.30.0]
+02/22/2022 08:35:20 PM: **********test_003_AddCustomer*****************
+02/22/2022 08:35:24 PM: **********Login Successful*****************
+02/22/2022 08:35:24 PM: **********Starting Search Customer By Email*****************
+02/22/2022 08:35:27 PM: **********Searching Customer by EmailID *****************
+02/22/2022 08:35:33 PM: **********TC_Searching_Customer_by_EmailID Completed *****************
